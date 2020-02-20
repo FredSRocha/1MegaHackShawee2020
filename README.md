@@ -8,7 +8,25 @@ Como ajudar o vendedor de pequeno e médio porte para que eles tenham uma lucrat
 
 Já pensou no número de empresas, empreendedores, autônomos e freelancers precisando aumentar a visibilidade dos seus negócios para atrair mais clintes?
 
-Somos uma forma rápida, fácil e segura de unir profissionalmente consumidores com produtos, empreasas e serviços regionalizados por bairro.
+## Problemas
+
+  * Pessoas que precisam contratar um serviço profissional mas não sabem onde procurar
+  * Empresas, empreendedores, autônomos e freelancers precisando atrair clientes
+  * Pessoas disponíveis para realizar entregas rápidas no bairro
+
+<p align="center">
+  <p align="center">
+    Somos uma forma rápida, fácil e segura de unir profissionalmente consumidores com produtos, empreasas e serviços regionalizados por bairro.
+    <br>
+    <br>
+    <strong> :computer: Demonstração :iphone: </strong>
+    <br>
+    <br>
+    <a href="https://localbiz.jusblog.com"><strong>Front-End</strong></a>
+    ·
+    <a href="https://localbiz.jusblog.com/admin"><strong>Back-End</strong></a>
+  </p>
+</p>
 
 # FRONTEND
 
@@ -30,11 +48,7 @@ O portal de vendas por regiões de produtos e serviços que faltava perto de voc
 
 # BACKEND
 
-## Problemas escolhidos para atuação
-
-  * Pessoas que precisam contratar um serviço profissional mas não sabem por onde procurar
-  * Empresas, empreendedores, autônomos e freelancers precisando atrair clientes
-  * Pessoas disponíveis para realizar entregas rápidas no bairro
+https://localbiz.jusblog.com/admin (Portal Administrativo)
 
 ## Cadastre um Provedor
 
@@ -42,7 +56,7 @@ O portal de vendas por regiões de produtos e serviços que faltava perto de voc
   * https://localbiz.jusblog.com/admin/manage-provider.php (POST > Formulario)
   * https://localbiz.jusblog.com/admin/add-provider.php (POST > JSON)
 
-Todos que visitam a plataforma ou futuro plugin so consumidores, provedores são aqueles que ofertam a comodidade de um serviço ou a utilidade de um produto ou entrega.
+Os visitantes da plataforma são considerados potenciais consumidores, provedores são aqueles que ofertam a comodidade de um serviço ou a utilidade de um produto, bem como aqueles que estão disponíveis como entregadores.
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/cadastrar-provedores.png" alt="Cadastrar Provedores" />
 
@@ -61,6 +75,7 @@ Todos que visitam a plataforma ou futuro plugin so consumidores, provedores são
   * https://localbiz.jusblog.com/admin/add-request.php (POST > JSON)
   
 A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando dinamicamente a solicitação após o pagamento. Ao pagar, clique no botão voltar e atualize a página. Para testar, use as credenciais:
+
   * email: fredsrocha1985-buyer@gmail.com
   * senha: localbusiness
 
@@ -99,22 +114,22 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 
 # Futuros Parceiros
 
-### TotalVoice
+<img src="https://localbiz.jusblog.com/assets/img/screen/TotalVoice_Logo.png" width="150px" alt="Total Voice" />
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/totalvoice.png" alt="Total Voice" />
 
-### Zenvia
+<img src="https://localbiz.jusblog.com/assets/img/screen/Zenvia_Logo.png" width="150px" alt="Zenvia" />
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/zenvia.png" alt="Zenvia" />
 
-### PayPal
+<img src="https://localbiz.jusblog.com/assets/img/screen/PayPal_Logo.png" width="150px" alt="PayPal" />
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/paypal.png" alt="PayPal" />
 
 
-## Equipe (Família)
+## Equipe (Família Rocha)
 
-<p align="center">"Nós somos um Marketplace que conecta consumidores com prestadores de serviços (empresas ou pessoas) e entregadores rápidos (a pé ou bicicleta) reginalizado por bairro. Somos um Marketplace de profissionais, produtos e serviços, afinal de contas quem nunca precisou de comprar um produto ou contrar um serviço de urgência e não fazia ideia de por onde começar para encontrar o profissional adequado."</p>
+> "Nós somos a solução tecnológica que conecta consumidores com prestadores de serviços (empresas ou pessoas) e entregadores rápidos (a pé ou bicicleta) reginalizados por bairro. Somos um Marketplace de profissionais, produtos e serviços, afinal de contas quem nunca precisou de comprar um produto ou contratar um serviço com urgência e não sabia por onde começar? Agora você tem o Local Business."
 
 - **Bárbara Rocha**
 - **Frederico Rocha**
