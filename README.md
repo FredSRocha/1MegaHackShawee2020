@@ -139,15 +139,13 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 
 ---
 
-### Desafio VTEX - Mega Hackathon 2020 Shawee.
+<p align="center">
+  <img src="https://localbiz.jusblog.com/assets/img/screen/megahack.jpeg" alt="Mega Hack Shawee 2020" />
+</p>
 
-<img src="https://localbiz.jusblog.com/assets/img/screen/VTEX_Logo.svg.png" alt="VTEX" />
-
-(c) Local Business 2020
-
-<a href="https://shawee.io/"><img src="https://image.prntscr.com/image/sPpL_dITQVyP3cJaLEK2GA.png" alt="Hackathon Total Voice 2019 by Shawee"  width="150" height="auto" /></a>
-
-Obrigado \o/
+<p align="right">
+  (c) Local Business 2020
+</p>
 
 </main>
 
