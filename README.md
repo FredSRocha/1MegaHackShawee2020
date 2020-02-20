@@ -131,6 +131,10 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 
 > "Nós somos a solução tecnológica que conecta consumidores com prestadores de serviços (empresas ou pessoas) e entregadores rápidos (a pé ou bicicleta) reginalizados por bairro. Somos um Marketplace de profissionais, produtos e serviços, afinal de contas quem nunca precisou de comprar um produto ou contratar um serviço com urgência e não sabia por onde começar? Agora você tem o Local Business."
 
+<p align="center">
+  <img src="https://localbiz.jusblog.com/assets/img/screen/team.jpeg" width="150px" alt="Família Rocha - Mega Hack Shawee 2020" />
+</p>
+
 - **Bárbara Rocha**
 - **Frederico Rocha**
 - **Débora Rocha**
