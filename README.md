@@ -16,7 +16,7 @@ Já pensou no número de empresas, empreendedores, autônomos e freelancers prec
 
 <p align="center">
   <p align="center">
-    Somos uma forma rápida, fácil e segura de unir profissionalmente consumidores com produtos, empreasas e serviços regionalizados por bairro.
+    <b>Somos uma forma rápida, fácil e segura de conectar consumidores com profissionais, empresas, entregadores e produtos regionalizados por bairro.</b>
     <br>
     <br>
     <strong> :computer: Demonstração :iphone: </strong>
