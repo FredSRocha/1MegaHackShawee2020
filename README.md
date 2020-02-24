@@ -1,14 +1,13 @@
 <main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
 
-# Mega Hack 2020 Shawee
+# Desafio VTEX, MegaHack 2020
 
-## Desafio VTEX
-
-Como ajudar o vendedor de pequeno e médio porte para que eles tenham uma lucratividade e rentabilidade maior dentro do processo de venda online?
-
-Já pensou no número de empresas, empreendedores, autônomos e freelancers precisando aumentar a visibilidade dos seus negócios para atrair mais clintes?
+> "Na era do bybox e marketplace, a concorrência está cada vez mais acirrada, o que é muito bom para o cliente que consegue ter uma oferta muito grande de possibilidades na hora de fazer uma compra online. Do outro lado, temos vários players de venda que precisam se adaptar a essa nova realidade onde, para ganhar espaço, visibilidade e novos clientes, é necessário estar acoplado à diversas plataformas, seja relacionada à adquirência, marketplaces, ads, logística, segurança, anti-fraude ou outras séries de custo que envolvam uma operação de venda online hoje em dia. Dentro deste contexto, como conseguimos ajudar o vendedor de pequeno e médio porte para que eles tenham uma lucratividade e rentabilidade maior dentro do processo de venda online?
+Vem com a gente repensar essa jornada e entender como melhorar um mercado em ascenção que, apenas no primeiro semestre de 2019, cresceu 12% com faturamento de 24.6 bilhões no Brasil e que tem número de pedido ainda mais impressionantes, com 20% de crescimento no volume total, representando um total de 65.2 milhões de pedidos." - [VTEX.COM](https://vtex.com/br-pt/).
 
 ## Problemas
+
+Com base no desafio proposto, a equipe validou os seguintes problemas nas pesquisas realizadas.
 
   * Pessoas que precisam contratar um serviço profissional mas não sabem onde procurar
   * Empresas, empreendedores, autônomos e freelancers precisando atrair clientes
@@ -28,27 +27,31 @@ Já pensou no número de empresas, empreendedores, autônomos e freelancers prec
   </p>
 </p>
 
-# FRONTEND
+## Front-End - Tema Noite (Desktop) 
 
-## Desktop (Dark Theme)
+<br>
+<img src="https://localbiz.jusblog.com/assets/img/screen/dark-desktop.png" alt="Local Business Desktop Night." />
 
-<img src="https://localbiz.jusblog.com/assets/img/screen/dark-desktop.png" alt="Local Business Darken Desktop" />
+## Front-End - Tema Dia (Desktop)
 
-## Desktop (Lighten Theme)
+<br>
+<img src="https://localbiz.jusblog.com/assets/img/screen/light-desktop.png" alt="Local Business Desktop Day." />
 
-<img src="https://localbiz.jusblog.com/assets/img/screen/light-desktop.png" alt="Local Business Lighten Desktop" />
+## Mobile - Tema Noite (PWA) 
 
-# MOBILE (PWA)
+<br>
+<img src="https://localbiz.jusblog.com/assets/img/screen/delivery.png" alt="Local Business Mobile Delivery." />
 
-<img src="https://localbiz.jusblog.com/assets/img/screen/delivery.png" alt="Local Business Entregas" />
+## Mobile - Tema Dia (PWA) 
 
-<img src="https://localbiz.jusblog.com/assets/img/screen/services.png" alt="Local Business Serviços" />
+<br>
+<img src="https://localbiz.jusblog.com/assets/img/screen/services.png" alt="Local Business Mobile Services." />
 
-O portal de vendas por regiões de produtos e serviços que faltava perto de você! Baseado em Pontos de Interesse (PDI) relevantes para usuários locais. Pode-se aplicar o BuyBox para destacar anúncios nesta dimensão de marketplace. Inclusive, tendo em vista que a relação entre consumidores e vendedores de produtos e serviços regionalizados tende a ser mais afeiçoada, é possível aplicar formas criativas e diversificadas para elaborar programas de fidelidade e interconectar esse nicho escalável, alavancando o processo de vendas e serviços online para consumidores e vendedores de pequeno e médio porte.
+O Local Business é o meio de vendas por regiões de produtos e serviços que faltava perto de você! Baseado em Pontos de Interesse (PDI) relevantes para usuários locais. Pode-se aplicar o BuyBox para destacar anúncios nesta dimensão de marketplace. Inclusive, tendo em vista que a relação entre consumidores e vendedores de produtos e serviços regionalizados tende a ser mais afeiçoada, é possível aplicar formas criativas e diversificadas para elaborar programas de fidelidade e interconectar esse nicho escalável, alavancando o processo de vendas e serviços online para consumidores e vendedores de pequeno e médio porte.
 
-# BACKEND
+## Back-End
 
-https://localbiz.jusblog.com/admin (Portal Administrativo)
+https://localbiz.jusblog.com/admin (Painel Administrativo)
 
 ## Cadastre um Provedor
 
@@ -97,13 +100,13 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/avaliacoes.png" alt="Avaliações" />
 
-# BMC
+# Quadro de modelo de negócios
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/bmc.png" alt="Local Business Canvas" />
 
-## Browsers
+## Navegadores
 
-| Compatible | Version |
+| Compatibilidade | Versão |
 | ------ | ----------- |
 | Chrome | 53+ |
 | Firefox | 37+ |
@@ -116,18 +119,21 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/TotalVoice_Logo.png" width="150px" alt="Total Voice" />
 
+<br>
 <img src="https://localbiz.jusblog.com/assets/img/screen/totalvoice.png" alt="Total Voice" />
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/Zenvia_Logo.png" width="150px" alt="Zenvia" />
 
+<br>
 <img src="https://localbiz.jusblog.com/assets/img/screen/zenvia.png" alt="Zenvia" />
 
 <img src="https://localbiz.jusblog.com/assets/img/screen/PayPal_Logo.png" width="150px" alt="PayPal" />
 
+<br>
 <img src="https://localbiz.jusblog.com/assets/img/screen/paypal.png" alt="PayPal" />
 
 
-## Equipe (Família Rocha)
+## Equipe
 
 > "Nós somos a solução tecnológica que conecta consumidores com prestadores de serviços (empresas ou pessoas) e entregadores rápidos (a pé ou bicicleta) reginalizados por bairro. Somos um Marketplace de profissionais, produtos e serviços, afinal de contas quem nunca precisou de comprar um produto ou contratar um serviço com urgência e não sabia por onde começar? Agora você tem o Local Business."
 
@@ -135,11 +141,11 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
   <img src="https://localbiz.jusblog.com/assets/img/screen/team.jpeg" width="150px" alt="Família Rocha - Mega Hack Shawee 2020" />
 </p>
 
-- **Bárbara Rocha**
-- **Frederico Rocha**
-- **Débora Rocha**
-- **Cássio Rocha**
-- **Sarah Rocha**
+- **Bárbara**
+- **Frederico**
+- **Débora**
+- **Cássio**
+- **Sarah**
 
 ---
 
@@ -148,7 +154,7 @@ A solicitação de serviços está integrada com o PayPal (SandBox) cadastrando 
 </p>
 
 <p align="right">
-  (c) Local Business 2020
+ <b><a href="https://localbiz.jusblog.com">&copy; Local Business 2020.</a></b>
 </p>
 
 </main>
