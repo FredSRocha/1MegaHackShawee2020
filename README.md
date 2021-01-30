@@ -1,6 +1,8 @@
 <main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
 
-# Desafio VTEX, MegaHack 2020
+# MegaHack1Shawee2020
+ 
+## Desafio VTEX
 
 > "Na era do bybox e marketplace, a concorrência está cada vez mais acirrada, o que é muito bom para o cliente que consegue ter uma oferta muito grande de possibilidades na hora de fazer uma compra online. Do outro lado, temos vários players de venda que precisam se adaptar a essa nova realidade onde, para ganhar espaço, visibilidade e novos clientes, é necessário estar acoplado à diversas plataformas, seja relacionada à adquirência, marketplaces, ads, logística, segurança, anti-fraude ou outras séries de custo que envolvam uma operação de venda online hoje em dia. Dentro deste contexto, como conseguimos ajudar o vendedor de pequeno e médio porte para que eles tenham uma lucratividade e rentabilidade maior dentro do processo de venda online?
 Vem com a gente repensar essa jornada e entender como melhorar um mercado em ascenção que, apenas no primeiro semestre de 2019, cresceu 12% com faturamento de 24.6 bilhões no Brasil e que tem número de pedido ainda mais impressionantes, com 20% de crescimento no volume total, representando um total de 65.2 milhões de pedidos." - [VTEX.COM](https://vtex.com/br-pt/)
